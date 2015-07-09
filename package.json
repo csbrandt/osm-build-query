@@ -1,6 +1,6 @@
 {
   "name": "osm-build-query",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build a query for the OSM Overpass API that retrieves all elements within the bounding feature",
   "main": "index.js",
   "scripts": {

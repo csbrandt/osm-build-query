@@ -11,7 +11,7 @@ Function
     OSMBuildQuery(key, bounds)
 > **key**:  *string*,  Tag name
 >
-> **bounds**:  *array*,  GeoJSON bounding feature
+> **bounds**:  *object*,  GeoJSON bounding feature
 >
 > **Returns**
 >
